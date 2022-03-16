@@ -3,9 +3,9 @@
 
 
 ## SSL-Bypass
-WIN+R
-Enter "appdata"
-Go to "AppData\Local\DeadByDaylight\Saved\Config\WindowsNoEditor"
+WIN+R  
+Enter "appdata"  
+Go to "AppData\Local\DeadByDaylight\Saved\Config\WindowsNoEditor"  
 Replace Engine.ini
 
 
