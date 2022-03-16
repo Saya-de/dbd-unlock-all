@@ -38,18 +38,16 @@ Local file to return (second line): Click on the arrow and choose "Find a file..
 Start the Game (Fiddler needs to run in the background, so you have to open it every time you want to play dbd with the market file)
 
 ### FullProfile Setup
+(Setup the MarketFile first!)
 (For Prestige 3, all Items and all Perks)  
 Go to "FiddlerScript"  
 Select "Go to: OnBeforeRequest"  
 Copy and paste the code snippet from my FiddlerScript.txt under a closing bracket:  
-![alt text](https://i.imgur.com/aE6ijKO.png)
+![alt text](https://i.imgur.com/aE6ijKO.png)  
 
-
-
-
-
-
-## FullProfile Injector
+Download the FullProfile Injector (you need to make an mpgh account)  
 https://www.mpgh.net/forum/showthread.php?t=1510097
+
+
 
 
