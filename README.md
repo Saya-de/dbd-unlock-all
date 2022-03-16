@@ -63,7 +63,7 @@ Close the Injector
 Restart the Game (Fiddler needs to stay open)
 
 
-#Proof Images (Market and Fullprofile)  
+# Proof Images (Market and Fullprofile)  
 
 Survivor:  
 ![alt text](https://i.imgur.com/SlvUAuj.png)  
