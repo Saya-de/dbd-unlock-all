@@ -2,6 +2,8 @@
 # DISCLAIMER
 The files and instructions presented are for educational purposes only!! I assume no liability for your use of these. Likewise, I assume no liability for any resulting bans or other problems! Always compare the current GameVersion and the current version of the files before injecting/using them!
 
+!!Before following any of these steps download and unpack the repository.!!
+
 
 ## SSL-Bypass
 Works for version 5.6.0+
@@ -36,7 +38,12 @@ Local file to return (second line): Click on the arrow and choose "Find a file..
 Start the Game (Fiddler needs to run in the background, so you have to open it every time you want to play dbd with the market file)
 
 ### FullProfile Setup
-...
+(For Prestige 3, all Items and all Perks)  
+Go to "FiddlerScript"  
+Select "Go to: OnBeforeRequest"  
+Copy and paste the code snippet from my FiddlerScript.txt under a closing bracket  
+Example:  ![alt text](https://i.imgur.com/ze2Uyzx.png)
+
 
 
 
