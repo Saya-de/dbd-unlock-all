@@ -10,7 +10,8 @@ Currently the files are only for the Steam-Version of the Game!
 [SSL-Bypass](#SSL-Bypass)  
 [Fiddler Classic](#Fiddler-Classic)  
 [MarketFile Setup](#marketfile-setup-for-every-character-and-every-cosmetic)  
-[FullProfile Setup](#fullprofile-setup-for-prestige-3-all-items-and-all-perks)
+[FullProfile Setup](#fullprofile-setup-for-prestige-3-all-items-and-all-perks)  
+[Proof Images](#proof-images-market-and-fullprofile)  
 <a name="headers"/>
 
 
