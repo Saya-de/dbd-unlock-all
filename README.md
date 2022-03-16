@@ -13,7 +13,7 @@ Currently the files are only for the Steam-Version of the Game!
 [Fiddler Classic](#Fiddler-Classic)  
 [MarketFile Setup](#marketfile-setup-for-every-character-and-every-cosmetic)  
 [FullProfile Setup](#fullprofile-setup-for-prestige-3-all-items-and-all-perks)  
-[Proof Images](#proof-images-market-and-fullprofile-togehter)  
+[Proof Images](#proof-images-market-and-fullprofile-together)  
 <a name="headers"/>
 
 
