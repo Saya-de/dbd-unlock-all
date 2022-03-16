@@ -50,7 +50,8 @@ Local file to return (second line): Click on the arrow and choose "Find a file..
                                     Choose the Market.json file  
                                     Click on Save  
            
-Start the Game (Fiddler needs to run in the background, so you have to open it every time you want to play dbd with the market file)
+Start the Game and check if all characters are unlocked
+
 
 ### FullProfile Setup (For Prestige 3, all Items and all Perks)  
 ([Basic Setup](#basic-setup) and [SSL-Bypass](#ssl-bypass) are needed!)  
