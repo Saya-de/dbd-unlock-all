@@ -1,5 +1,6 @@
 # Dead-by-Daylight-Unlocking-Utils
-
+# DISCLAIMER
+The files and instructions presented are for educational purposes only!! I assume no liability for your use of these. Likewise, I assume no liability for any resulting bans or other problems!
 
 
 ## SSL-Bypass
