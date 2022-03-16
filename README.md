@@ -52,5 +52,15 @@ Select the Cookies Tab
 Copy the bhvrSession after the "="  
 Save it to a file or something  
 
+Run the Simple Injector.exe  
+Paste the bhvrSession Cookie  
+Click on Submit  
+Click on Inject Profile and wait for the sound  
+Click on Inject Profile again and wait for the sound  
+Close the Injector
 
-Unpack  
+Restart the Game (Fiddler needs to stay open)
+
+
+
+
