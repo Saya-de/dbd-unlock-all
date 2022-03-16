@@ -44,10 +44,13 @@ Go to "FiddlerScript"
 Select "Go to: OnBeforeRequest"  
 Copy and paste the code snippet from my FiddlerScript.txt under a closing bracket:  
 ![alt text](https://i.imgur.com/aE6ijKO.png)  
+Click on Save Script  
 
-Download the FullProfile Injector (you need to make an mpgh account)  
-https://www.mpgh.net/forum/showthread.php?t=1510097
+Run the game with Fiddler open and go to the home Screen  
+Go to Fiddler, find and click the URL "/api/v1/inventories" in the list on the left  
+Select the Cookies Tab  
+Copy the bhvrSession after the "="  
+Save it to a file or something  
 
 
-
-
+Unpack  
