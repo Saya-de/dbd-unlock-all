@@ -42,7 +42,7 @@ Start the Game (Fiddler needs to run in the background, so you have to open it e
 Go to "FiddlerScript"  
 Select "Go to: OnBeforeRequest"  
 Copy and paste the code snippet from my FiddlerScript.txt under a closing bracket:  
-![alt text](https://i.imgur.com/ze2Uyzx.png)
+![alt text](https://i.imgur.com/aE6ijKO.png)
 
 
 
