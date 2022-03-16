@@ -37,6 +37,7 @@ Click OK
 Restart Fiddler and check if the boxes are still checked
 
 ### MarketFile Setup (For every Character and every Cosmetic)
+([Basic Setup](#basic-setup) and [SSL-Bypass](#ssl-bypass) are needed!)  
 Go to "AutoResponder"  
 Check "Enable rules" and "Unmatched requests passthrough"  
 Click on "Add Rule"  
@@ -48,6 +49,7 @@ Local file to return (second line): Click on the arrow and choose "Find a file..
 Start the Game (Fiddler needs to run in the background, so you have to open it every time you want to play dbd with the market file)
 
 ### FullProfile Setup (For Prestige 3, all Items and all Perks)  
+([Basic Setup](#basic-setup) and [SSL-Bypass](#ssl-bypass) are needed!)  
 (Setup the MarketFile first!)  
 (You only need to do all of this once!)  
 Go to "FiddlerScript"  
