@@ -13,7 +13,7 @@ Currently the files are only for the Steam-Version of the Game!
 [Fiddler Classic](#Fiddler-Classic)  
 [MarketFile Setup](#marketfile-setup-for-every-character-and-every-cosmetic)  
 [FullProfile Setup](#fullprofile-setup-for-prestige-3-all-items-and-all-perks)  
-[Proof Images](#proof-images-market-and-fullprofile)  
+[Proof Images](#proof-images-market-and-fullprofile-togehter)  
 <a name="headers"/>
 
 
@@ -76,7 +76,7 @@ Close the Injector
 Restart the Game (Fiddler needs to stay open)
 
 
-# Proof Images (Market and Fullprofile)  
+# Proof Images (Market and Fullprofile together)  
 
 Survivor:  
 ![alt text](https://i.imgur.com/SlvUAuj.png)  
