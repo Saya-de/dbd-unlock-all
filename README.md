@@ -1,9 +1,12 @@
 # Dead-by-Daylight-Unlocking-Utils
+## Proof Images (Market and Fullprofile)
+## SSl-Bypass
 # DISCLAIMER
 The files and instructions presented are for educational purposes only!! I assume no liability for your use of these. Likewise, I assume no liability for any resulting bans or other problems! Always compare the current GameVersion and the current version of the files before injecting/using them!
 
 !!Before following any of these steps download and unpack the repository.!!
 Currently the files are only for the Steam-Version of the Game!
+
 
 
 ## SSL-Bypass
