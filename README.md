@@ -6,9 +6,11 @@ The files and instructions presented are for educational purposes only!! I assum
 !!Before following any of these steps download and unpack the repository.!!
 Currently the files are only for the Steam-Version of the Game!
 
-##### Table of Contents  
+## Table of Contents  
 [SSL-Bypass](#SSL-Bypass)  
-[Fiddler Classic](#Fiddler-Classic)   
+[Fiddler Classic](#Fiddler-Classic)  
+[MarketFile Setup](#MarketFile-Setup)
+[FullProfile Setup](#FullProfile-Setup)
 <a name="headers"/>
 
 
