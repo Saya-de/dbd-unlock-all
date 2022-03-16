@@ -27,8 +27,7 @@ Check the Boxes "Capture..." and "Decrypt..."
 Click OK  
 Restart Fiddler and check if the boxes are still checked
 
-### MarketFile Setup
-(For every Character and every Cosmetic)  
+### MarketFile Setup (For every Character and every Cosmetic)
 Go to "AutoResponder"  
 Check "Enable rules" and "Unmatched requests passthrough"  
 Click on "Add Rule"  
@@ -39,9 +38,8 @@ Local file to return (second line): Click on the arrow and choose "Find a file..
            
 Start the Game (Fiddler needs to run in the background, so you have to open it every time you want to play dbd with the market file)
 
-### FullProfile Setup
-(Setup the MarketFile first!)
-(For Prestige 3, all Items and all Perks)  
+### FullProfile Setup (For Prestige 3, all Items and all Perks)  
+(Setup the MarketFile first!)  
 Go to "FiddlerScript"  
 Select "Go to: OnBeforeRequest"  
 Copy and paste the code snippet from my FiddlerScript.txt under a closing bracket:  
