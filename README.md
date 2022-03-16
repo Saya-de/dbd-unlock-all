@@ -1,5 +1,7 @@
 # Dead-by-Daylight-Unlocking-Utils
 
+This is a guide and file collection for unlocking everyone and everything in Dead by Daylight using the Programm "Fiddler" and the [Simple Injector](https://www.mpgh.net/forum/showthread.php?t=1510097) from MPGH made by the User FluxDot!
+
 # DISCLAIMER
 The files and instructions presented are for educational purposes only!! I assume no liability for your use of these. Likewise, I assume no liability for any resulting bans or other problems! Always compare the current GameVersion and the current version of the files before injecting/using them!
 
