@@ -15,6 +15,21 @@ Replace Engine.ini
 ## Fiddler Classic
 https://www.telerik.com/download/fiddler
 
+### Basic Setup
+Download, Run Setup and Install  
+Open Fiddler Classic  
+On the top go to Tools -> Options and the Tab HTTPS  
+Check the Boxes "Capture..." and "Decrypt..."  
+Click OK  
+Restart Fiddler and check if the boxes are still checked
+
+### MarketFile Setup
+...
+
+### FullProfile Setup
+...
+
+
 
 
 
