@@ -41,8 +41,8 @@ Start the Game (Fiddler needs to run in the background, so you have to open it e
 (For Prestige 3, all Items and all Perks)  
 Go to "FiddlerScript"  
 Select "Go to: OnBeforeRequest"  
-Copy and paste the code snippet from my FiddlerScript.txt under a closing bracket  
-Example:  ![alt text](https://i.imgur.com/ze2Uyzx.png)
+Copy and paste the code snippet from my FiddlerScript.txt under a closing bracket:  
+![alt text](https://i.imgur.com/ze2Uyzx.png)
 
 
 
