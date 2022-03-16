@@ -7,11 +7,10 @@ The files and instructions presented are for educational purposes only!! I assum
 Currently the files are only for the Steam-Version of the Game!
 
 ##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
+[SSL-Bypass](#SSL-Bypass)  
+[Fiddler Classic](#Fiddler Classic)   
 <a name="headers"/>
-## Headers
+
 
 ## SSL-Bypass
 You need it for everything  
