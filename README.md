@@ -9,7 +9,7 @@ Currently the files are only for the Steam-Version of the Game!
 ## Table of Contents  
 [SSL-Bypass](#SSL-Bypass)  
 [Fiddler Classic](#Fiddler-Classic)  
-[MarketFile Setup](#MarketFile-Setup)
+[MarketFile Setup](#marketfile-setup-for-every-character-and-every-cosmetic)
 [FullProfile Setup](#FullProfile-Setup)
 <a name="headers"/>
 
