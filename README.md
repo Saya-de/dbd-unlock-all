@@ -24,7 +24,16 @@ Click OK
 Restart Fiddler and check if the boxes are still checked
 
 ### MarketFile Setup
-...
+(For every Character and every Cosmetic)
+Go to "AutoResponder"
+Check "Enable rules" and "Unmatched requests passthrough"
+Click on "Add Rule"
+Request URL (first line): api/v1/inventories
+Local file to return (second line): Click on the arrow and choose "Find a file..." at the Bottom  
+                                    Choose the Market.json file  
+                                    Click on Save  
+           
+Start the Game (Fiddler needs to run in the background, so you have to open it every time you want to play dbd with the market file)
 
 ### FullProfile Setup
 ...
