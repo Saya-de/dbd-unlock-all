@@ -7,7 +7,7 @@ Currently the files are only for the Steam-Version of the Game!
 
 
 ## SSL-Bypass
-You need it for everything
+You need it for everything  
 Works for version 5.6.0+
 
 WIN+R  
