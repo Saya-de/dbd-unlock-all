@@ -48,7 +48,7 @@ Start the Game (Fiddler needs to run in the background, so you have to open it e
 
 ### FullProfile Setup (For Prestige 3, all Items and all Perks)  
 (Setup the MarketFile first!)  
-(You only need to do all of this once!)
+(You only need to do all of this once!)  
 Go to "FiddlerScript"  
 Select "Go to: OnBeforeRequest"  
 Copy and paste the code snippet from my FiddlerScript.txt under a closing bracket:  
