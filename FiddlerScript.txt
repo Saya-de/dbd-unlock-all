@@ -1,0 +1,7 @@
+if(!oSession.uriContains("/api/v1/owned-products/get-update-entitlements")) {
+            if (oSession.HostnameIs("steam.live.bhvrdbd.com")) {
+                oSession.hostname="brill.live.bhvrdbd.com";
+                oSession.oRequest["x-kraken-client-platform"] = "egs";
+                oSession.oRequest["x-kraken-client-provider"] = "egs";
+            }
+        }
