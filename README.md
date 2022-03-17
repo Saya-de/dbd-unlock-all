@@ -3,6 +3,7 @@
 This is a guide and file collection for unlocking everyone and everything in Dead by Daylight using the Programm "Fiddler" and the [Simple Injector](https://www.mpgh.net/forum/showthread.php?t=1510097) from MPGH made by the User FluxDot!   
 If you want your game to look like on the [Proof Images](#proof-images-market-and-fullprofile-together), just follow everything from top to bottom!  
 If i forgot something or if something doesnt work please create an issue.
+Ofcourse, the Injector **will** trigger your windows defender or other antivirus softwares bc its an **Injector**. Turn it off or allow the injector on your device. 
 
 # DISCLAIMER
 The files and instructions presented are for educational purposes only!! I assume no liability for your use of these. Likewise, I assume no liability for any resulting bans or other problems! Always compare the current GameVersion and the current version of the files before injecting/using them!
@@ -68,6 +69,7 @@ Go to Fiddler, find and click the URL "/api/v1/inventories" in the list on the l
 Select the Cookies Tab  
 Copy the bhvrSession after the "="  
 Save it to a file or something  
+
 
 Run the Simple Injector.exe  
 Paste the bhvrSession Cookie  
