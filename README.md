@@ -1,7 +1,8 @@
 # Dead-by-Daylight-Unlocking-Utils
 
 This is a guide and file collection for unlocking everyone and everything in Dead by Daylight using the Programm "Fiddler" and the [Simple Injector](https://www.mpgh.net/forum/showthread.php?t=1510097) from MPGH made by the User FluxDot!   
-If you want your game to look like on the [Proof Images](#proof-images-market-and-fullprofile-together), just follow everything from top to bottom!  
+If you want your game to look like on the [Proof Images](#proof-images-market-and-fullprofile-together), just follow everything from top to bottom!
+**I forgot to add charms to the images but of course you get every charm!"
 If i forgot something or if something doesnt work please create an issue.  
 
  | Ofcourse, the Injector **will** trigger your windows defender or other antivirus softwares bc its an **Injector**. Turn it off or allow the injector on your device. | 
@@ -83,6 +84,7 @@ Restart the Game (Fiddler needs to stay open)
 
 
 # Proof Images (Market and Fullprofile together)  
+**I forgot to add charms to the images but of course you get every charm!"
 
 Survivor:  
 ![alt text](https://i.imgur.com/SlvUAuj.png)  
