@@ -67,6 +67,7 @@ Copy and paste the code snippet from my FiddlerScript.txt under a closing bracke
 Click on Save Script  
 
 Run the game with Fiddler open and go to the home Screen  
+!YOU NEED TO STAY ON THE HOMESCREEN OTHERWISE IT WONT WORK!! (the screen where you can chosse between survior and killer)
 Go to Fiddler, find and click the URL "/api/v1/inventories" in the list on the left  
 Select the Cookies Tab  
 Copy the bhvrSession after the "="  
