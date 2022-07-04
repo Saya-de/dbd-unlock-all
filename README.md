@@ -1,5 +1,13 @@
 # Dead-by-Daylight-Unlocking-Utils
 
+# CURRENTLY OUTDATED (SSL-PINNING-BYPASS IS NOT WORKING ANYMORE!!)
+
+
+
+
+
+
+
 This is a guide and file collection for unlocking everyone and everything in Dead by Daylight using the Programm "Fiddler" and the [Simple Injector](https://www.mpgh.net/forum/showthread.php?t=1510097) from MPGH made by the User FluxDot!   
 If you want your game to look like on the [Proof Images](#proof-images-market-and-fullprofile-together), just follow everything from top to bottom!  
 **I forgot to add charms to the images but of course you get every charm!"**  
